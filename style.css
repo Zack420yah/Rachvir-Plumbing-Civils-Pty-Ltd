@@ -323,11 +323,13 @@ html, body {
   margin-bottom: 8px;
 }
 
-.about-cta {
-  background: #141b2d;
-  padding: 2rem;
-  border-radius: 12px;
-  text-align: center;
+.about-cta {  
+    background: #141b2d;
+    padding: 2rem;
+    border-radius: 12px;
+    text-align: center;
+    margin: 0 auto;
+    max-width: 800px;
 }
 
 /* ====== CONTACT ====== */
